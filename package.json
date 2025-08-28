@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "vercel-build": "npm install --legacy-peer-deps && npm run build"
-    }
+   }
   },
   "dependencies": {
     "@capacitor/android": "^7.4.3",
